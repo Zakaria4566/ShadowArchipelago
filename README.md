@@ -64,7 +64,7 @@ This is an open and collaborative project.
 *   **Found a bug or have a suggestion?** Please [open an Issue](https://github.com/Zakaria4566/ShadowArchipelago/issues).
 *   **Want to improve the code?** We welcome [Pull Requests](https://github.com/Zakaria4566/ShadowArchipelago/pulls).
 
-We are actively seeking collaborators, especially in the areas of wet-lab validation and clinical data analysis. Please contact us at **[Your_Email_Here]**.
+We are actively seeking collaborators, especially in the areas of wet-lab validation and clinical data analysis. Please contact us at **[notiu.hre@gmail.com]**.
 
 ---
 
