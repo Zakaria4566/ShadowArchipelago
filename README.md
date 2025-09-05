@@ -1,5 +1,4 @@
 
-```text
 <p align="center">
  <img src="https://raw.githubusercontent.com/Zakaria4566/ShadowArchipelago/main/assets/visual_abstract.png" alt="Visual Abstract" width="800"/>
 </p>
