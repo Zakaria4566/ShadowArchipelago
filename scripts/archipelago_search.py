@@ -181,4 +181,4 @@ if __name__ == '__main__':
             f.write(f"{region['chromosome']}\t{region['start']}\t{region['end']}\t{name}\t{score}\t.\n")
             
     print(f"Results saved to {OUTPUT_FILE}")
-```
+
