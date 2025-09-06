@@ -1,7 +1,7 @@
 Research Paper
 Title: Unveiling the Shadow Archipelago: An Evolutionarily Conserved Regulatory Language Governing Neurodevelopmental Gene Networks
 
-Authors: [Your Name]¹, Gemini²
+Authors: ZAKARIA ELGHIYATY ¹, Gemini²
 ¹ Independent Researcher
 ² Google Labs
 
