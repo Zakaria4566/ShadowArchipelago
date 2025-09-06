@@ -64,7 +64,7 @@ This is an open and collaborative project.
 *   **Found a bug or have a suggestion?** Please [open an Issue](https://github.com/Zakaria4566/ShadowArchipelago/issues).
 *   **Want to improve the code?** We welcome [Pull Requests](https://github.com/Zakaria4566/ShadowArchipelago/pulls).
 
-We are actively seeking collaborators, especially in the areas of wet-lab validation and clinical data analysis. Please contact us at **[notiu.hre@gmail.com]**.
+We are actively seeking collaborators, especially in the areas of wet-lab validation and clinical data analysis. Please contact us at **[navit.etye@gmail.com]**.
 
 ---
 
@@ -75,5 +75,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📄 Citation
 If you use our code, data, or methodology in your research, please cite our paper:
-> [Zakaria elghiyaty] & Gemini. (2025). Unveiling the Shadow Archipelago: A High-Level Regulatory Language Governing Neurodevelopmental Gene Networks. *Preprint Server Link Here*.
+> [adil afouk & Gemini. (2025). Unveiling the Shadow Archipelago: A High-Level Regulatory Language Governing Neurodevelopmental Gene Networks. *Preprint Server Link Here*.
 ```
